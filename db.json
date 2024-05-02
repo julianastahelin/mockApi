@@ -5,14 +5,14 @@
             "name": "Maria",
             "lastName": "da Silva",
             "cpf": "12345678900",
-            "senha": "1234"
+            "password": "1234"
         },
         {
             "id": 2,
             "name": "João",
             "lastName": "da Cunha",
             "cpf": "12345678901",
-            "senha": "1234"
+            "password": "1234"
         }
     ]
 }

@@ -1,74 +1,67 @@
-[
-    {
-        "_id": "663515194b4cff2912e84dbc",
-        "firstName": "Burch",
-        "lastName": "Vargas",
-        "email": "burchvargas@portica.com",
-        "phone": "+55 (84) 24692-777",
-        "jobTitle": "Contador",
-        "department": "Marketing"
-    },
-    {
-        "_id": "663515195b5ddf815ac7b3e0",
-        "firstName": "Ollie",
-        "lastName": "Goodwin",
-        "email": "olliegoodwin@portica.com",
-        "phone": "+55 (89) 74872-168",
-        "jobTitle": "Designer",
-        "department": "Vendas"
-    },
-    {
-        "_id": "663515194ee68491f224e75b",
-        "firstName": "Bette",
-        "lastName": "Massey",
-        "email": "bettemassey@portica.com",
-        "phone": "+55 (97) 05423-744",
-        "jobTitle": "Administrador",
-        "department": "Marketing"
-    },
-    {
-        "_id": "66351519924f6b48e2f223d5",
-        "firstName": "Grimes",
-        "lastName": "Mcclure",
-        "email": "grimesmcclure@portica.com",
-        "phone": "+55 (96) 05223-704",
-        "jobTitle": "Gerente de Produto",
-        "department": "Vendas"
-    },
-    {
-        "_id": "66351519847d6a8cb6e0442c",
-        "firstName": "Rosalinda",
-        "lastName": "Simon",
-        "email": "rosalindasimon@portica.com",
-        "phone": "+55 (90) 95522-269",
-        "jobTitle": "Arquiteto",
-        "department": "Vendas"
-    },
-    {
-        "_id": "66351519e989b766103dac02",
-        "firstName": "Magdalena",
-        "lastName": "Raymond",
-        "email": "magdalenaraymond@portica.com",
-        "phone": "+55 (97) 35402-855",
-        "jobTitle": "Arquiteto",
-        "department": "Contabilidade"
-    },
-    {
-        "_id": "6635151974046daa8d468e8f",
-        "firstName": "Amalia",
-        "lastName": "Vinson",
-        "email": "amaliavinson@portica.com",
-        "phone": "+55 (96) 75303-417",
-        "jobTitle": "Administrador",
-        "department": "Engenharia"
-    },
-    {
-        "_id": "6635151984a06988ecaea0c0",
-        "firstName": "Henson",
-        "lastName": "Curry",
-        "email": "hensoncurry@portica.com",
-        "phone": "+55 (97) 15783-509",
-        "jobTitle": "Gerente de Produto",
-        "department": "Vendas"
-    }
-]
+{
+    "users": [
+        {
+            "name": "Dillon Ruiz",
+            "email": "dillonruiz@portica.com",
+            "phone": "+55 (97) 25222-410",
+            "jobTitle": "Contador",
+            "department": "Contabilidade"
+        },
+        {
+            "name": "Rowland Long",
+            "email": "rowlandlong@portica.com",
+            "phone": "+55 (85) 74253-238",
+            "jobTitle": "Designer",
+            "department": "Contabilidade"
+        },
+        {
+            "name": "Patrice Campos",
+            "email": "patricecampos@portica.com",
+            "phone": "+55 (90) 24843-015",
+            "jobTitle": "Designer",
+            "department": "Engenharia"
+        },
+        {
+            "name": "Adriana Lindsay",
+            "email": "adrianalindsay@portica.com",
+            "phone": "+55 (86) 64042-054",
+            "jobTitle": "Administrador",
+            "department": "Engenharia"
+        },
+        {
+            "name": "Lakisha Matthews",
+            "email": "lakishamatthews@portica.com",
+            "phone": "+55 (99) 24433-775",
+            "jobTitle": "Administrador",
+            "department": "Engenharia"
+        },
+        {
+            "name": "Clare Case",
+            "email": "clarecase@portica.com",
+            "phone": "+55 (81) 54493-353",
+            "jobTitle": "Administrador",
+            "department": "Engenharia"
+        },
+        {
+            "name": "Alford Noble",
+            "email": "alfordnoble@portica.com",
+            "phone": "+55 (93) 04493-256",
+            "jobTitle": "Contador",
+            "department": "Marketing"
+        },
+        {
+            "name": "Della Stewart",
+            "email": "dellastewart@portica.com",
+            "phone": "+55 (96) 14222-998",
+            "jobTitle": "Engenheiro",
+            "department": "Marketing"
+        },
+        {
+            "name": "Hollie Atkins",
+            "email": "hollieatkins@portica.com",
+            "phone": "+55 (95) 45392-206",
+            "jobTitle": "Designer",
+            "department": "Recursos Humanos"
+        }
+    ]
+}
